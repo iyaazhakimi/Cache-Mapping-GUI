@@ -1,9 +1,0 @@
-TUTORIAL
-
-1. Open "Cache Mapping GUI" file in VS Code.
-2. Open "cache mapping gui" file.
-3. Open "gui.py" file.
-4. Run in Terminal > pip install -r requirements.txt
-5. Run in Terminal > pip install tk
-6. Change the PATH of the frame0 location in gui.py ---> ASSETS_PATH = OUTPUT_PATH / Path(r"....\...\frame0") 
-7. Run the "gui.py" file.
